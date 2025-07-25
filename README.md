@@ -1,78 +1,67 @@
-<h1 align="center">Hey 👋, I'm Aryan Kumar</h1>
-<h3 align="center">💻 Full Stack Developer | 🧠 ML Enthusiast | 🚀 MLOps Learner</h3>
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Crafting+Modern+Web+Apps+%F0%9F%92%BB;Building+Smart+ML+Systems+%F0%9F%96%A5%EF%B8%8F;Always+Learning%2C+Always+Evolving+%F0%9F%8C%90" alt="Typing SVG" />
-</p>
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-
----
-
-### 🧠 About Me
-
-- 🔭 Working on: **MLOps - Model Deployment & CI/CD**
-- 🌱 Learning: **Next.js, Docker, Kubernetes, GCP, AWS**
-- 🤝 Open to collaborate on: **Full Stack + ML projects**
-- 💬 Ask me about: **MERN, ML, MLOps, React.js**
-- 📫 Reach me: [**rehan17400578@gmail.com**](mailto:rehan17400578@gmail.com)
-- 🧑‍💻 GitHub: [**spicynick111**](https://github.com/spicynick111)
-- ⚡ Fun Fact: I debug code at 2 AM with lo-fi beats 🎧
-
----
-
-### 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,java,tailwind,docker,kubernetes,git,github,aws,postman,postgres,pandas,scikit-learn,vercel" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
+## 👋 Hello, I'm Aryan Kumar
+
+🎓 CSE undergrad @ BIT Mesra | 🎯 GATE CSE 2025 Qualified  
+💡 Frontend Developer | 🤖 AI/ML Enthusiast | 🛠️ Always building something new  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://github.com/spicynick111/cricpulse-2025">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=cricpulse-2025&theme=tokyonight" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,python,java,numpy,pandas,scikit-learn,git,github,vercel" />
+</p>
 
-  <a href="https://github.com/spicynick111/FlightForge">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=FlightForge&theme=tokyonight" />
-  </a>
+---
 
-  <a href="https://github.com/spicynick111/FinForge-">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=FinForge-&theme=tokyonight" />
+## 💼 Projects
+
+<p align="center">
+
+  <a href="https://github.com/spicynick111/semantic_book_recommender">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=semantic_book_recommender&theme=react" />
+  </a>
+  
+  <a href="https://github.com/spicynick111/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=portfolio&theme=react" />
   </a>
 
   <a href="https://github.com/spicynick111/gemini-chatbot">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=gemini-chatbot&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=gemini-chatbot&theme=react" />
+  </a>
+  
+  <a href="https://github.com/spicynick111/FlightForge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=FlightForge&theme=react" />
   </a>
 
-  <a href="https://github.com/spicynick111/semantic_book_recommendation">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=semantic_book_recommendation&theme=tokyonight" />
+  <a href="https://github.com/spicynick111/cricpulse-2025">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=cricpulse-2025&theme=react" />
   </a>
 
-  <a href="https://github.com/spicynick111/portfolio">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=portfolio&theme=tokyonight" />
+  <a href="https://github.com/spicynick111/FinForge-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=FinForge-&theme=react" />
   </a>
+
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=spicynick111&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spicynick111&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spicynick111&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spicynick111&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=spicynick111&theme=react&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Contribution Graph
+## 📈 GitHub Contribution Heatmap
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=spicynick111&theme=react-dark&hide_border=true&bg_color=0D1117&color=79C0FF&line=79C0FF&point=FFFFFF" />
@@ -80,27 +69,26 @@
 
 ---
 
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:rehan17400578@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aryan-kumar-gate2025"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/spicynick111"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### 👀 Visitors Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spicynick111&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
+### 🌀 Just for Fun
 
 <div align="center">
   
-**🚀 Let's Code. Let's Build. Let's Innovate.**
+**⚡ Building Scalable Code** • **💡 Deploying Smart ML Apps**  
+**🌍 Ready for Real-World Dev Challenges** • **✨ Let's Create Together!**
 
-⭐ *Thanks for visiting!* ⭐  
 </div>
+
+---
+
+<!-- Footer Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=Thanks+for+scrolling+✨;Let's+connect+and+build+together+%F0%9F%A4%9D" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/spicynick111/spicynick111/main/assets/footer-gradient.gif" width="100%" />
+</p>
+
+<p align="center">
+  ⭐ From <a href="https://github.com/spicynick111">spicynick111</a> with ❤️
+</p>

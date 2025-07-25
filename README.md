@@ -1,36 +1,100 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Aryan kumar</h1>
-<h3 align="center">A Full Stack Developer skilled in the MERN stack with a passion for building modern web apps & learning to leverage data for intelligent systems.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spicynick111" alt="spicynick111" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h1 align="center">Hey 👋, I'm Aryan Kumar</h1>
+<h3 align="center">💻 Full Stack Developer | 🧠 ML Enthusiast | 🚀 MLOps Learner</h3>
 
-- 🔭 I’m currently working on [MLOps Basics – Exploring ML model deployment, CI/CD for ML](in progress)
-
-- 🌱 I’m currently learning **MLOps, ML Model Deployment, Next.js, Docker, Kubernetes**
-
-- 👯 I’m looking to collaborate on [Full Stack Web Apps with ML Features](Open for Collaboration)
-
-- 🤝 I’m looking for help with [MLOps best practices and cloud deployment (AWS, GCP)](Ping me if you can help!)
-
-- 👨‍💻 All of my projects are available at [https://github.com/spicynick111](https://github.com/spicynick111)
-
-- 💬 Ask me about **MERN Stack, React.js, Machine Learning fundamentals, MLOps basics**
-
-- 📫 How to reach me **rehan17400578@gmail.com**
-
-- ⚡ Fun fact **I love solving coding challenges at midnight with lo-fi music on. Also, I might have more GitHub repos than unread WhatsApp messages!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Crafting+Modern+Web+Apps+%F0%9F%92%BB;Building+Smart+ML+Systems+%F0%9F%96%A5%EF%B8%8F;Always+Learning%2C+Always+Evolving+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spicynick111&show_icons=true&locale=en&layout=compact" alt="spicynick111" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spicynick111&show_icons=true&locale=en" alt="spicynick111" /></p>
+### 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spicynick111&" alt="spicynick111" /></p>
+- 🔭 Working on: **MLOps - Model Deployment & CI/CD**
+- 🌱 Learning: **Next.js, Docker, Kubernetes, GCP, AWS**
+- 🤝 Open to collaborate on: **Full Stack + ML projects**
+- 💬 Ask me about: **MERN, ML, MLOps, React.js**
+- 📫 Reach me: [**rehan17400578@gmail.com**](mailto:rehan17400578@gmail.com)
+- 🧑‍💻 GitHub: [**spicynick111**](https://github.com/spicynick111)
+- ⚡ Fun Fact: I code with lo-fi beats at midnight 🌙 and probably have more GitHub repos than unread WhatsApps! 😂
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,java,tailwind,docker,kubernetes,git,github,aws,postman,postgres,pandas,scikit-learn,vercel" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+<p align="center">
+
+  <a href="https://github.com/spicynick111/CricPulse2025">
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=CricPulse2025&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/spicynick111/FlightForge">
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=FlightForge&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/spicynick111/SpicyNick-Research-System">
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=SpicyNick-Research-System&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/spicynick111/Spam-Classifier">
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=Spam-Classifier&theme=tokyonight" />
+  </a>
+
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=spicynick111&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spicynick111&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spicynick111&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:rehan17400578@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aryan-kumar-gate2025"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/spicynick111"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 👀 Visitors Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=spicynick111&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile view count" />
+</p>
+
+---
+
+### 🌀 Just for Fun
+
+<marquee behavior="scroll" direction="left" scrollamount="8">
+⚡ Building Scalable Code &nbsp;&nbsp; 💡 Deploying Smart ML Apps &nbsp;&nbsp; 🌍 Ready for Real-World Dev Challenges &nbsp;&nbsp; ✨ Let's Create Together!
+</marquee>
+
+---
+
+### 🌊 Footer
+
+<img src="https://raw.githubusercontent.com/spicynick111/spicynick111/main/assets/wave.svg" alt="wave" width="100%" />
+

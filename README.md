@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgflip.com/5tksvw.gif)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Aryan kumar</h1>
 <h3 align="center">A Full Stack Developer skilled in the MERN stack with a passion for building modern web apps & learning to leverage data for intelligent systems.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">

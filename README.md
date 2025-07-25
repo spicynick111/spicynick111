@@ -12,13 +12,9 @@
 
 ---
 
-## 🧠 About Me
-
-🎓 **3rd year CSE undergrad at BIT Mesra**  
-🚀 GATE CSE 2025 Qualified  
-💻 Frontend Tech Stack: **HTML, CSS, JavaScript, React.js**  
-🧠 Exploring ML: **NumPy, pandas, scikit-learn**  
-🛠️ Programming in: **C, C++, Python, JavaScript**
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F6F6F6&center=true&vCenter=true&width=700&lines=🎓+3rd+year+CSE+undergrad+at+BIT+Mesra;🚀+GATE+CSE+2025+Qualified;💻+Frontend:+HTML+%7C+CSS+%7C+JavaScript+%7C+React.js;🧠+Learning+ML:+NumPy+%7C+pandas+%7C+scikit-learn;⚡+Passionate+about+Tech+%26+Product+Building" alt="About Typing" />
+</h2>
 
 ---
 
@@ -32,15 +28,46 @@
 
 ## 🚀 Projects
 
-| Project | Description |
-|--------|-------------|
-| 🔗 [**Portfolio**](https://github.com/spicynick111/portfolio) | Personal developer portfolio built with React |
-| 🤖 [**Gemini Chatbot**](https://github.com/spicynick111/gemini-chatbot) | Conversational AI using Gemini API |
-| ✈️ [**FlightForge**](https://github.com/spicynick111/FlightForge) | Flight fare prediction ML model |
-| 📚 [**Semantic Book Recommender**](https://github.com/spicynick111/semantic_book_recommender) | NLP-based intelligent book recommendation system |
-| 📊 [**CricPulse 2025**](https://github.com/spicynick111/cricpulse-2025) | T20 Cricket insights and analytics platform |
-| 💰 [**FinForge**](https://github.com/spicynick111/FinForge-) | Finance analytics and prediction dashboard |
-| 🎮 [**Game Project**](https://github.com/spicynick111/spicynick111/tree/main/Game) | ML-based Flappy Bird style game |
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" />
+</p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>📚 Semantic Book Recommender</strong><br/>
+      <a href="https://github.com/spicynick111/semantic_book_recommender">NLP-based intelligent book recommendation system</a>
+    </td>
+    <td align="center" width="50%">
+      <strong>✈️ FlightForge</strong><br/>
+      <a href="https://github.com/spicynick111/FlightForge">Flight fare prediction ML model</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>📊 CricPulse 2025</strong><br/>
+      <a href="https://github.com/spicynick111/cricpulse-2025">T20 Cricket insights and analytics platform</a>
+    </td>
+    <td align="center" width="50%">
+      <strong>💰 FinForge</strong><br/>
+      <a href="https://github.com/spicynick111/FinForge-">Finance analytics and prediction dashboard</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🤖 Gemini Chatbot</strong><br/>
+      <a href="https://github.com/spicynick111/gemini-chatbot">Conversational AI using Gemini API</a>
+    </td>
+    <td align="center" width="50%">
+      <strong>🌐 Portfolio Website</strong><br/>
+      <a href="https://github.com/spicynick111/portfolio">Personal developer portfolio built with React</a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -61,20 +88,7 @@
 
 ---
 
-## 🎯 Just for Fun
-
 <p align="center">
-  ⚡ Building Scalable Code • 💡 Deploying Smart ML Apps • 🌍 Ready for Real-World Dev Challenges • ✨ Let's Create Together!
-</p>
-
----
-
-<!-- 🌊 Animated Wave Footer -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/readme-assets/main/wavefooter-dark.svg" alt="wave footer" />
-</p>
-
-<p align="center">
-  🚀 Thank you for visiting! <br />
-  ⭐ From <a href="https://github.com/spicynick111">spicynick111</a> with ❤️
+  🚀 Thank you for visiting! <br/>
+  Made with ❤️ by <a href="https://github.com/spicynick111">Aryan Kumar</a>
 </p>

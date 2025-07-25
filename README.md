@@ -94,7 +94,16 @@
 
 ---
 
-### 🌊 Footer
+### 🌊 Footer (Animated Gradient)
 
-<img src="https://raw.githubusercontent.com/spicynick111/spicynick111/main/assets/wave.svg" alt="wave" width="100%" />
+<div align="center" style="background: linear-gradient(270deg, #1e3c72, #2a5298); padding: 10px 0; animation: gradientBG 8s ease infinite;">
+  <h4 style="color: white;">Thank you for visiting! 🚀 Let's build something awesome together.</h4>
+</div>
 
+<style>
+@keyframes gradientBG {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>

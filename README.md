@@ -1,3 +1,8 @@
+I understand. Let's make the "Tech Stack" section more organized and visually appealing. Instead of a single long row, I will categorize your skills to make them easier to read and showcase your expertise in different areas.
+
+Here is the updated markdown code with the improved "Tech Stack" section.
+
+```markdown
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hey 👋, I'm Aryan Kumar</h1>
@@ -26,7 +31,20 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,java,tailwind,docker,kubernetes,git,github,aws,postman,postgres,pandas,scikit-learn,vercel" />
+  <h4>Languages</h4>
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,js" />
+  <br>
+  <h4>Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+  <br>
+  <h4>Backend & Database</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+  <br>
+  <h4>DevOps & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,aws,postman,vercel" />
+  <br>
+  <h4>ML & Data Science</h4>
+  <img src="https://skillicons.dev/icons?i=pandas,scikit-learn" />
 </p>
 
 ---
@@ -50,10 +68,6 @@
   <a href="https://github.com/spicynick111/SpicyNick-Research-System">
     <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=SpicyNick-Research-System&theme=tokyonight" />
   </a>
-
-  <a href="https://github.com/spicynick111/Spam-Classifier">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=Spam-Classifier&theme=tokyonight" />
-  </a>
   
   <a href="https://github.com/spicynick111/FinForge-">
     <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=FinForge-&theme=tokyonight" />
@@ -70,9 +84,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spicynick111&layout=compact&theme=tokyonight" height="160px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spicynick111&theme=tokyonight" />
-</p>
+### 📈 GitHub Contribution Heatmap
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=spicynick111&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -96,14 +112,14 @@
 
 ### 🌀 Just for Fun
 
-<marquee behavior="scroll" direction="left" scrollamount="8">
-⚡ Building Scalable Code &nbsp;&nbsp; 💡 Deploying Smart ML Apps &nbsp;&nbsp; 🌍 Ready for Real-World Dev Challenges &nbsp;&nbsp; ✨ Let's Create Together!
-</marquee>
+<div align="center">⚡ Building Scalable Code • 💡 Deploying Smart ML Apps • 🌍 Ready for Real-World Dev Challenges • ✨ Let's Create Together!</div>
 
 ---
 
 <div align="center" style="background: linear-gradient(270deg, #1e3c72, #2a5298); padding: 10px 0;">
-  <h4 style="color: white;">Thank you for visiting! 🚀 Let's build something awesome together.</h4>
+  <h4 style="color: white;">🌊 Thank you for visiting! 🚀 Let's build something awesome together.</h4>
+  <h4 style="color: white;">⭐ From spicynick111 with ❤️</h4>
 </div>
 
 ---
+```

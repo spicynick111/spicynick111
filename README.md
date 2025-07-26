@@ -33,43 +33,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-<div align="center">
-
-  <div align="left">
-
-  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; margin-bottom: 10px;">
-    <strong>📊 <a href="https://github.com/spicynick111/cricpulse-2025">CricPulse 2025</a></strong><br>
-    Modern T20 cricket analytics platform using Python, Pandas, and Matplotlib.
-  </div>
-
-  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; margin-bottom: 10px;">
-    <strong>✈️ <a href="https://github.com/spicynick111/FlightForge">FlightForge</a></strong><br>
-    Flight fare prediction system using scikit-learn and Streamlit.
-  </div>
-
-  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; margin-bottom: 10px;">
-    <strong>🔍 <a href="https://github.com/spicynick111/semantic_book_recommender">Semantic Book Recommender</a></strong><br>
-    NLP-based content recommender using sentence transformers.
-  </div>
-
-  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; margin-bottom: 10px;">
-    <strong>🤖 <a href="https://github.com/spicynick111/gemini-chatbot">Gemini Chatbot</a></strong><br>
-    AI chatbot project interfaced with Google Gemini API for contextual QA.
-  </div>
-
-  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; margin-bottom: 10px;">
-    <strong>🛫 <a href="https://github.com/spicynick111/SpicyNick-Research-System">SpicyNick Research System</a></strong><br>
-    Research paper summarizer and explorer using LLM + Pinecone.
-  </div>
-
-</div>
-
-</div>
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">

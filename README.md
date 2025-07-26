@@ -35,6 +35,10 @@
 
 <p align="center">
 
+  <a href="https://github.com/spicynick111/semantic_book_recommender">
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=semantic_book_recommender&theme=tokyonight" />
+  </a>
+  
   <a href="https://github.com/spicynick111/CricPulse2025">
     <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=CricPulse2025&theme=tokyonight" />
   </a>
@@ -51,8 +55,8 @@
     <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=Spam-Classifier&theme=tokyonight" />
   </a>
   
-  <a href="https://github.com/spicynick111/NEW-PROJECT-REPO">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=NEW-PROJECT-REPO&theme=tokyonight" />
+  <a href="https://github.com/spicynick111/FinForge-">
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=FinForge-&theme=tokyonight" />
   </a>
 
 </p>
@@ -67,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spicynick111/spicynick111/output/github-contribution-grid-snake.svg" alt="Aryan's Wave Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spicynick111&theme=tokyonight" />
 </p>
 
 ---

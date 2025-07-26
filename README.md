@@ -50,6 +50,10 @@
   <a href="https://github.com/spicynick111/Spam-Classifier">
     <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=Spam-Classifier&theme=tokyonight" />
   </a>
+  
+  <a href="https://github.com/spicynick111/NEW-PROJECT-REPO">
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=NEW-PROJECT-REPO&theme=tokyonight" />
+  </a>
 
 </p>
 
@@ -63,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spicynick111&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/spicynick111/spicynick111/output/github-contribution-grid-snake.svg" alt="Aryan's Wave Contribution Graph" />
 </p>
 
 ---
@@ -94,16 +98,8 @@
 
 ---
 
-### 🌊 Footer (Animated Gradient)
-
-<div align="center" style="background: linear-gradient(270deg, #1e3c72, #2a5298); padding: 10px 0; animation: gradientBG 8s ease infinite;">
+<div align="center" style="background: linear-gradient(270deg, #1e3c72, #2a5298); padding: 10px 0;">
   <h4 style="color: white;">Thank you for visiting! 🚀 Let's build something awesome together.</h4>
 </div>
 
-<style>
-@keyframes gradientBG {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+---

@@ -28,7 +28,10 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,java,tailwind,docker,kubernetes,git,github,aws,postman,postgres,pandas,scikit-learn,vercel"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,java,tailwind,docker"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,git,github,aws,postman,postgres,pandas,scikit-learn,vercel"/>
 </p>
 
 ---

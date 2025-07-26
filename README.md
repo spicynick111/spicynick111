@@ -123,5 +123,10 @@
 </p>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749123-40f0ef57-b169-47c9-a4cd-bdff91b2b27f.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749181-356a68c1-4c62-4742-a7f4-03d69f57d5f1.gif" width="200"/>
+</p>
+
+<p align="center">
   🛠️ Made with ❤️ by Aryan
 </p>

@@ -33,25 +33,36 @@
 
 ### 🌟 Featured Projects
 
-<p align="center">
+<div align="center">
 
-  <a href="https://github.com/spicynick111/CricPulse2025">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=CricPulse2025&theme=tokyonight" />
-  </a>
+<table>
+  <tr>
+    <td align="center" width="250">
+      <a href="https://github.com/spicynick111/CricPulse2025">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=CricPulse2025&theme=tokyonight" />
+      </a>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/spicynick111/FlightForge">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=FlightForge&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250">
+      <a href="https://github.com/spicynick111/SpicyNick-Research-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=SpicyNick-Research-System&theme=tokyonight" />
+      </a>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/spicynick111/Spam-Classifier">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=Spam-Classifier&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/spicynick111/FlightForge">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=FlightForge&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/spicynick111/SpicyNick-Research-System">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=SpicyNick-Research-System&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/spicynick111/Spam-Classifier">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=Spam-Classifier&theme=tokyonight" />
-  </a>
-
-</p>
+</div>
 
 ---
 
@@ -86,24 +97,8 @@
 
 ---
 
-### 🌀 Just for Fun
+### 🌊 Footer Wave
 
-<marquee behavior="scroll" direction="left" scrollamount="8">
-⚡ Building Scalable Code &nbsp;&nbsp; 💡 Deploying Smart ML Apps &nbsp;&nbsp; 🌍 Ready for Real-World Dev Challenges &nbsp;&nbsp; ✨ Let's Create Together!
-</marquee>
-
----
-
-### 🌊 Footer (Animated Gradient)
-
-<div align="center" style="background: linear-gradient(270deg, #1e3c72, #2a5298); padding: 10px 0; animation: gradientBG 8s ease infinite;">
-  <h4 style="color: white;">Thank you for visiting! 🚀 Let's build something awesome together.</h4>
-</div>
-
-<style>
-@keyframes gradientBG {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/spicynick111/spicynick111/output/github-contribution-grid-snake.svg" alt="footer wave animation" />
+</p>

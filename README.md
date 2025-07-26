@@ -13,13 +13,15 @@
 
 ### 🧠 About Me
 
-- 🔭 Working on: **MLOps - Model Deployment & CI/CD**
-- 🌱 Learning: **Next.js, Docker, Kubernetes, GCP, AWS**
-- 🤝 Open to collaborate on: **Full Stack + ML projects**
-- 💬 Ask me about: **MERN, ML, MLOps, React.js**
-- 📫 Reach me: [**rehan17400578@gmail.com**](mailto:rehan17400578@gmail.com)
-- 🧑‍💻 GitHub: [**spicynick111**](https://github.com/spicynick111)
-- ⚡ Fun Fact: I code with lo-fi beats at midnight 🌙 and probably have more GitHub repos than unread WhatsApps! 😂
+```txt
+🔭 Working on: MLOps - Model Deployment & CI/CD
+🌱 Learning: Next.js, Docker, Kubernetes, GCP, AWS
+🤝 Open to collaborate on: Full Stack + ML projects
+💬 Ask me about: MERN, ML, MLOps, React.js
+📫 Reach me: rehan17400578@gmail.com
+🧑‍💻 GitHub: spicynick111
+⚡ Fun Fact: I code with lo-fi beats at midnight 🌙 and probably have more GitHub repos than unread WhatsApps! 😂
+```
 
 ---
 
@@ -33,25 +35,38 @@
 
 ### 🌟 Featured Projects
 
-<p align="center">
+<div align="center">
 
-  <a href="https://github.com/spicynick111/CricPulse2025">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=CricPulse2025&theme=tokyonight" />
-  </a>
+  <div align="left">
 
-  <a href="https://github.com/spicynick111/FlightForge">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=FlightForge&theme=tokyonight" />
-  </a>
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; margin-bottom: 10px;">
+    <strong>📊 <a href="https://github.com/spicynick111/cricpulse-2025">CricPulse 2025</a></strong><br>
+    Modern T20 cricket analytics platform using Python, Pandas, and Matplotlib.
+  </div>
 
-  <a href="https://github.com/spicynick111/SpicyNick-Research-System">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=SpicyNick-Research-System&theme=tokyonight" />
-  </a>
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; margin-bottom: 10px;">
+    <strong>✈️ <a href="https://github.com/spicynick111/FlightForge">FlightForge</a></strong><br>
+    Flight fare prediction system using scikit-learn and Streamlit.
+  </div>
 
-  <a href="https://github.com/spicynick111/Spam-Classifier">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=spicynick111&repo=Spam-Classifier&theme=tokyonight" />
-  </a>
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; margin-bottom: 10px;">
+    <strong>🔍 <a href="https://github.com/spicynick111/semantic_book_recommender">Semantic Book Recommender</a></strong><br>
+    NLP-based content recommender using sentence transformers.
+  </div>
 
-</p>
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; margin-bottom: 10px;">
+    <strong>🤖 <a href="https://github.com/spicynick111/gemini-chatbot">Gemini Chatbot</a></strong><br>
+    AI chatbot project interfaced with Google Gemini API for contextual QA.
+  </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; margin-bottom: 10px;">
+    <strong>🛫 <a href="https://github.com/spicynick111/SpicyNick-Research-System">SpicyNick Research System</a></strong><br>
+    Research paper summarizer and explorer using LLM + Pinecone.
+  </div>
+
+</div>
+
+</div>
 
 ---
 
@@ -64,6 +79,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spicynick111&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-graph.ez4o.com/api?username=spicynick111&bg=transparent&color=tokyonight&border=none" />
 </p>
 
 ---
@@ -94,16 +113,6 @@
 
 ---
 
-### 🌊 Footer (Animated Gradient)
-
-<div align="center" style="background: linear-gradient(270deg, #1e3c72, #2a5298); padding: 10px 0; animation: gradientBG 8s ease infinite;">
-  <h4 style="color: white;">Thank you for visiting! 🚀 Let's build something awesome together.</h4>
-</div>
-
-<style>
-@keyframes gradientBG {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+<p align="center">
+  🛠️ Made with ❤️ by Aryan
+</p>

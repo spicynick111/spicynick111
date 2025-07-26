@@ -36,23 +36,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spicynick111&show_icons=true&theme=tokyonight&cache_seconds=30" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spicynick111&layout=compact&theme=tokyonight&cache_seconds=30" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spicynick111&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spicynick111&theme=react-dark&hide_border=true&bg_color=0D1117&color=79C0FF&line=79C0FF&point=FFFFFF" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">

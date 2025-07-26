@@ -8,88 +8,49 @@
 
 ## 🧑‍💻 About Me
 
-🎓 B.Tech CSE | BIT Mesra '26  
-🏆 GATE CSE 2025 Qualified  
-💻 Passionate about Full Stack Web Dev and AI/ML  
-🚀 Always learning & building real-world projects  
-🔭 Currently exploring **MLOps** & **Generative AI**
+- 🎓 B.Tech in Computer Science | BIT Mesra '26  
+- 🏆 GATE CSE 2025 Qualified  
+- 💻 Passionate about Full-Stack Development and AI/ML  
+- 🚀 Always working on impactful projects and learning new tech  
+- 🔭 Currently diving into MLOps and Generative AI  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,tailwind,git,github,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,tailwind,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🔥 Projects
+## 🔥 Featured Projects
 
-<div align="center">
+> Explore my projects in an interactive slider format 👉 _(Coming Soon)_  
+> Here's a quick overview:
 
-<table>
-<tr>
-<td>
-  
-#### 🔗 <a href="https://github.com/spicynick111/semantic_book_recommender">Semantic Book Recommender</a>  
-A hybrid NLP-based book recommendation engine using TF-IDF, cosine similarity, and spaCy for semantic match.
-
-</td>
-<td>
-
-#### 🔗 <a href="https://github.com/spicynick111/FlightForge">FlightForge</a>  
-A 2D drone adventure game built in Python with Pygame, using real-time weather APIs to influence gameplay dynamics.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-#### 🔗 <a href="https://github.com/spicynick111/cricpulse-2025">CricPulse 2025</a>  
-An analytics web app providing match prediction, visualization & historical analysis of ICC T20 World Cups.
-
-</td>
-<td>
-
-#### 🔗 <a href="https://github.com/spicynick111/gemini-chatbot">Gemini Chatbot</a>  
-A Gemini-powered AI chatbot with memory & follow-up capabilities deployed with a sleek UI.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-#### 🔗 <a href="https://github.com/spicynick111/FinForge-">FinForge</a>  
-A smart personal finance tracker powered by ML that categorizes expenses and predicts future trends.
-
-</td>
-<td>
-
-#### 🔗 <a href="https://github.com/spicynick111/portfolio">Portfolio</a>  
-My personal portfolio built with React.js + TailwindCSS with dark mode, project cards, and a contact form.
-
-</td>
-</tr>
-</table>
-
-</div>
+| Project | Description |
+|--------|-------------|
+| [Semantic Book Recommender](https://github.com/spicynick111/semantic_book_recommender) | NLP-based book recommendation engine using TF-IDF and spaCy. |
+| [FlightForge](https://github.com/spicynick111/FlightForge) | 2D drone game in Python with Pygame and real-time weather APIs. |
+| [CricPulse 2025](https://github.com/spicynick111/cricpulse-2025) | T20 World Cup analytics web app with predictions and visualizations. |
+| [Gemini Chatbot](https://github.com/spicynick111/gemini-chatbot) | Gemini-powered AI chatbot with memory and modern UI. |
+| [FinForge](https://github.com/spicynick111/FinForge-) | ML-powered finance tracker for expense categorization and trends. |
+| [Portfolio](https://github.com/spicynick111/portfolio) | React.js and TailwindCSS portfolio with dark mode and contact form. |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contribution Heatmap
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spicynick111&show_icons=true&theme=radical" alt="stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=spicynick111&theme=radical" alt="streak" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spicynick111&layout=compact&theme=radical" alt="langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=spicynick111&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=spicynick111&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spicynick111&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
-## 🌍 Visitors Count
+## 🌍 Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=spicynick111&style=flat-square&color=blue" alt="Profile views" />
@@ -97,7 +58,7 @@ My personal portfolio built with React.js + TailwindCSS with dark mode, project 
 
 ---
 
-## 🚀 Thank you for visiting!
+## 🚀 Let's Collaborate!
 
-_“Code is like humor. When you have to explain it, it’s bad.”_  
-Let's connect & collaborate on exciting tech!  
+> _"Code is like humor. When you have to explain it, it’s bad."_  
+Excited to connect and build innovative tech together! 🌟

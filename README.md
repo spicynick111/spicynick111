@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Crafting+Modern+Web+Apps+%F0%9F%92%BB;Building+Smart+ML+Systems+%F0%9F%96%A5%EF%B8%8F;Always+Learning%2C+Always+Evolving+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 
 ---
 

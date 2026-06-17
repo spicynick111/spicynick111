@@ -1,71 +1,57 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
-<h1 align="center">Hey 👋, I'm Aryan Kumar</h1>
-<h3 align="center">💻 Full Stack Developer | 🧠 ML Enthusiast | 🚀 MLOps Learner</h3>
+<h1 align="center">Hi, I'm Aryan Kumar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Crafting+Modern+Web+Apps+%F0%9F%92%BB;Building+Smart+ML+Systems+%F0%9F%96%A5%EF%B8%8F;Always+Learning%2C+Always+Evolving+%F0%9F%8C%90" alt="Typing SVG" />
+  <b>GenAI & Agentic AI Engineer &nbsp;|&nbsp; IEEE-Published Researcher &nbsp;|&nbsp; GATE 2025 & 2026 Qualified</b><br/>
+  BIT Mesra, B.Tech CSE 2026 &nbsp;|&nbsp; 3 Live AI Systems in Production
 </p>
-<div align="right">
-  <br><br>
-  <img alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
-</div>
-
-
----
-
-### 🧠 About Me
-
-```txt
-🔭 Working on: MLOps - Model Deployment & CI/CD
-🌱 Learning: Next.js, Docker, Kubernetes, GCP, AWS
-🤝 Open to collaborate on: Full Stack + ML projects
-💬 Ask me about: MERN, ML, MLOps, React.js
-📫 Reach me: rehan17400578@gmail.com
-🧑‍💻 GitHub: spicynick111
-⚡ Fun Fact: I code with lo-fi beats at midnight 🌙 and probably have more GitHub repos than unread WhatsApps! 😂
-```
-
----
-
-### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,java,tailwind,docker"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,git,github,aws,postman,postgres,pandas,scikit-learn"/>
+  <a href="https://linkedin.com/in/aryankumar-bitm">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://aryan-ashy.vercel.app/">Portfolio</a> &nbsp;•&nbsp;
+  <a href="mailto:aaryankumarr.2005@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:rehan17400578@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aryankumar-bitm"><img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/spicynick111"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+### 🤖 What I Build
+- **Agentic AI Systems** — LangGraph multi-agent pipelines with tool calling & state machines
+- **RAG & LLM Applications** — Production RAG with hallucination detection & LLMOps monitoring  
+- **ML Research** — IEEE-published CNN-BiLSTM-Attention for EEG sleep stage detection (94.11% accuracy)
+- **Full-Stack AI Products** — FastAPI + PostgreSQL + LLM backends deployed on Render & HuggingFace
 
 ---
 
-### 👀 Visitors Count
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spicynick111&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile view count" />
-</p>
+**GenAI & Agentic AI**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-000?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=flat&logo=python&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-8A2BE2?style=flat&logoColor=white)
+
+**ML & Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0064A5?style=flat&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Backend & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
-### 🌀 Just for Fun
-
-<marquee behavior="scroll" direction="left" scrollamount="8">
-⚡ Building Scalable Code &nbsp;&nbsp; 💡 Deploying Smart ML Apps &nbsp;&nbsp; 🌍 Ready for Real-World Dev Challenges &nbsp;&nbsp; ✨ Let's Create Together!
-</marquee>
-
----
-
-<p align="center">
-  🛠️ Made with ❤️ by Aryan
-</p>
+### 🏆 Highlights
+- 📄 **IEEE Publication** — CNN-BiLSTM for N3 Deep Sleep Detection, ICNDIA-2026, AIT Pune
+- 🎯 **GATE 2025 & 2026** — Qualified in Computer Science & IT
+- 🚀 **3 Live AI Systems** — Streamlit Cloud, Render, HuggingFace Spaces
+- 📜 **ML Specialization** — Coursera, Stanford & DeepLearning.AI
